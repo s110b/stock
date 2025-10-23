@@ -67,7 +67,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2   # after remove test 
+        uses: actions/deploy-pages@v4   # after remove test 
       - name: deploy to render  # after remove test 
         uses: ttskch/render-deploy@v1.0.0
         with:
