@@ -73,10 +73,6 @@ jobs:
         with:
           api-key: rnd_2VNe9TJ1Auhn7R1v1Df3d87Bap1c
           service-id: srv-ck0rd7b6fquc73a4qu30
-      - name: deploy to Vercel  # after remove test 
-        uses: amondnet/vercel-action@v25
-        with:
-          vercel-token: xjE70mdtbGAHHdCEKEUHhviV # Required
-          vercel-project-id: prj_e6xKgEpy0pD871bdqEy2YqAWJLa2 #Required 
+
 
         
