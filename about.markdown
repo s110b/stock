@@ -16,7 +16,7 @@ You can find the source code for Jekyll at GitHub:
 
 - test
 - 特殊
-- test
+
 
 
 [jekyll-organization]: https://github.com/jekyll
